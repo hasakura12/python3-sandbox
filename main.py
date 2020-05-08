@@ -6,7 +6,7 @@
 # install required packages to virtualenv (local to app)
 # pip install virtualenv
 # virtualenv venv
-# sudo 744 venv/bin/activate
+# sudo chmod 744 venv/bin/activate
 # source venv/bin/activate
 # pip install -r requirements.txt
 
