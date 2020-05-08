@@ -1,0 +1,5 @@
+colorama
+python-dotenv
+requests
+aiohttp
+asyncio
